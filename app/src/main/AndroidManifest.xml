@@ -19,14 +19,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".PlayActivity">
-        </activity>
-
-        <activity
-            android:name=".EditActivity">
-        </activity>
-
     </application>
 
 </manifest>
